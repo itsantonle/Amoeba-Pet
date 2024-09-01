@@ -1,0 +1,17 @@
+* {
+  font-family: 'Press Start 2P', system-ui;
+  font-weight: 300;
+}
+div {
+  border: 0.1rem solid black;
+  border-radius: 1.5rem;
+
+  #buttonstab {
+    border: 2px solid transparent;
+  }
+}
+
+#amoebaPic {
+  height: 300px;
+}
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap');

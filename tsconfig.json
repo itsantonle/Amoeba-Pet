@@ -1,0 +1,8 @@
+{
+  "compilerOptions": {
+    "outDir": "./main/dist/js",
+    "rootDir": "./src",
+    "module": "ES6"
+  },
+  "include": ["src"]
+}
